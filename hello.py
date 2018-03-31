@@ -1,5 +1,6 @@
 // For command line git turotial
-// Local repository modefication
+// Frist: Local repository modefication
+// Second: GitHub modification
 
 print("Hello world")
 print("Tell Your World")
